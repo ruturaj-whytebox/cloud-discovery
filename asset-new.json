@@ -1,0 +1,239 @@
+[
+    {
+        "_id": {
+            "$oid": "6ad06ec25fc72bdb0b26a21a"
+        },
+        "uuid": "239A4D56-3E93-A38D-2AA0-6B30F654EA0F",
+        "serialNo": "VMware-56 4d 9a 23 93 3e 8d a3-2a a0 6b 30 f6 54 ea 0f",
+        "assetType": "IT Asset",
+        "assetName": "win-7fgb801i5ig",
+        "organizationID": {
+            "$oid": "67445570729013303ca04a2a"
+        },
+        "updateSource": "agentless",
+        "assetID": "AUTO-SERVERS-0398",
+        "category": "servers/windows",
+        "properties": {
+            "commonProperties": {
+                "macAddress": "00:0C:29:54:EA:0F",
+                "serialNumber": "VMware-56 4d 9a 23 93 3e 8d a3-2a a0 6b 30 f6 54 ea 0f",
+                "hostname": "WIN-7FGB801I5IG",
+                "alias": "Alias-WIN-7FGB801I5IG-2026",
+                "ipAddress": {
+                    "ciphertext": "g9errb2E5EG1vXEDidV4kbPrnt5J9kptMashbzrwW2Vo63H5mwqoQUv/QOtdMyWF",
+                    "iv": "o0bX32BnEn0RuGF4p0MdEA=="
+                },
+                "_id": {
+                    "$oid": "6ad1b6abf389aae335efe293"
+                }
+            },
+            "osProperties": {
+                "osName": "Microsoft Windows Server 2022 Standard",
+                "osVersion": "10.0.20348",
+                "osServicePack": null,
+                "osInstallDate": "05-03-2026",
+                "osInstalledBy": null,
+                "buildNumber": "20348",
+                "productID": "00454-10000-00001-AA055",
+                "lastBootUpTime": "2026-10-10 14:22:16",
+                "bootDevice": "\\Device\\HarddiskVolume1",
+                "windowsDirectory": "C:\\Windows",
+                "productKey": "Not Available via WMI",
+                "virtualMemory": "22.33 GB",
+                "systemDirectory": "C:\\Windows\\system32",
+                "licenseStatus": "Licensed",
+                "_id": {
+                    "$oid": "6ad1b6abf389aae335efe294"
+                }
+            },
+            "cpuProperties": {
+                "cpuSpeed": "2.99 GHz",
+                "logicalProcessors": "4",
+                "cpuStepping": "",
+                "cpuCoresCount": "4",
+                "_id": {
+                    "$oid": "6ad1b6abf389aae335efe295"
+                }
+            },
+            "biosProperties": {
+                "manufacturer": "VMware, Inc.",
+                "biosVersion": "INTEL  - 6040000 VMW201.00V.21805430.B64.2305221830 VMware, Inc. - 10000",
+                "installDate": "Unknown",
+                "_id": {
+                    "$oid": "6ad1b6abf389aae335efe296"
+                }
+            },
+            "diskProperties": [
+                {
+                    "driveName": "C:",
+                    "driveType": "Local Disk (HDD, SSD)",
+                    "driveCapacity": "89.37 GB",
+                    "_id": {
+                        "$oid": "6ad1b6abf389aae335efe297"
+                    }
+                }
+            ],
+            "monitorProperties": null,
+            "keyboardProperties": {
+                "keyboardType": "Remote Desktop Keyboard Device",
+                "keyboardSerialNumber": "TERMINPUT_BUS\\UMB\\2&2C22BCC9&0&SESSION2KEYBOARD0",
+                "_id": {
+                    "$oid": "6ad1b6abf389aae335efe298"
+                }
+            },
+            "mouseProperties": {
+                "mouseSerialNumber": "USB\\VID_0E0F&PID_0003&MI_00\\6&22BBF49B&0&0000",
+                "numberOfButtons": "0",
+                "_id": {
+                    "$oid": "6ad1b6abf389aae335efe299"
+                }
+            },
+            "driverDetailsProperties": [
+                {
+                    "deviceName": "Generic Non-PnP Monitor",
+                    "manufacturer": "(Standard monitor types)",
+                    "driverVersion": "10.0.20348.3451",
+                    "driverProviderName": "Microsoft",
+                    "infName": "monitor.inf",
+                    "_id": {
+                        "$oid": "6ad1b6abf389aae335efe29a"
+                    }
+                },
+                {
+                    "deviceName": "Microsoft Remote Display Adapter",
+                    "manufacturer": "Microsoft",
+                    "driverVersion": "10.0.20348.3451",
+                    "driverProviderName": "Microsoft",
+                    "infName": "rdpidd.inf",
+                    "_id": {
+                        "$oid": "6ad1b6abf389aae335efe29b"
+                    }
+                }
+            ],
+            "processorProperties": {
+                "name": "Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz",
+                "manufacturer": "GenuineIntel",
+                "numberOfCores": "4",
+                "maxClockSpeed": "2.99 GHz",
+                "uUID": "1F8BFBFF00050654",
+                "logicalProcessors": "4",
+                "_id": {
+                    "$oid": "6ad1b6abf389aae335efe2f4"
+                }
+            },
+            "uSBControllerProperties": [
+                {
+                    "name": "Standard USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)",
+                    "deviceID": "PCI\\VEN_15AD&DEV_077A&SUBSYS_077A15AD&REV_00\\3&218E0F40&0&10",
+                    "_id": {
+                        "$oid": "6ad1b6abf389aae335efe2f5"
+                    }
+                }
+            ],
+            "baseBoardDetailProperties": {
+                "manufacturer": "Intel Corporation",
+                "product": "440BX Desktop Reference Platform",
+                "serialNumber": "None",
+                "version": "None",
+                "tag": "Base Board",
+                "productID": "",
+                "_id": {
+                    "$oid": "6ad1b6abf389aae335efe2f6"
+                }
+            },
+            "printerDetailsProperties": [
+                {
+                    "printerName": "OneNote (Desktop)",
+                    "driverName": "Send to Microsoft OneNote 16 Driver",
+                    "portName": "nul:",
+                    "isShared": "No",
+                    "isDefault": "No",
+                    "_id": {
+                        "$oid": "6ad1b6abf389aae335efe2f7"
+                    }
+                },
+                {
+                    "printerName": "Microsoft XPS Document Writer",
+                    "driverName": "Microsoft XPS Document Writer v4",
+                    "portName": "PORTPROMPT:",
+                    "isShared": "No",
+                    "isDefault": "No",
+                    "_id": {
+                        "$oid": "6ad1b6abf389aae335efe2f8"
+                    }
+                },
+                {
+                    "printerName": "Microsoft Print to PDF",
+                    "driverName": "Microsoft Print To PDF",
+                    "portName": "PORTPROMPT:",
+                    "isShared": "No",
+                    "isDefault": "No",
+                    "_id": {
+                        "$oid": "6ad1b6abf389aae335efe2f9"
+                    }
+                }
+            ],
+            "soundCardProperties": [],
+            "videoCardProperties": [
+                {
+                    "name": "Microsoft Remote Display Adapter",
+                    "memorySize": "Unknown",
+                    "driverVersion": "10.0.20348.3451",
+                    "deviceID": "SWD\\REMOTEDISPLAYENUM\\RDPIDD_INDIRECTDISPLAY&SESSIONID_0002",
+                    "status": "OK",
+                    "_id": {
+                        "$oid": "6ad1b6abf389aae335efe2fa"
+                    }
+                },
+                {
+                    "name": "Microsoft Basic Display Adapter",
+                    "memorySize": "Unknown",
+                    "driverVersion": "10.0.20348.1",
+                    "deviceID": "PCI\\VEN_15AD&DEV_0405&SUBSYS_040515AD&REV_00\\3&61AAA01&0&78",
+                    "status": "OK",
+                    "_id": {
+                        "$oid": "6ad1b6abf389aae335efe2fb"
+                    }
+                }
+            ],
+            "ramProperties": {
+                "totalMemory": "8 GB",
+                "freeMemory": "0.41 GB",
+                "usedMemory": "7.59 GB",
+                "modules": [
+                    {
+                        "capacity": "8.00 GB",
+                        "speed": "N/A",
+                        "manufacturer": "VMware Virtual RAM",
+                        "partNumber": "VMW-8192MB",
+                        "_id": {
+                            "$oid": "6ad1b6abf389aae335efe2fd"
+                        }
+                    }
+                ],
+                "_id": {
+                    "$oid": "6ad1b6abf389aae335efe2fc"
+                }
+            }
+        },
+        "decom": false,
+        "assetCategoryID": {
+            "$oid": "6a699ee4d440bd590b423926"
+        },
+        "assetSubCategoryID": {
+            "$oid": "6a699ee4d440bd590b42392c"
+        },
+        "status": "offline",
+        "compositeVulnScore": 100,
+        "compositeVulnRating": "Critical",
+        "managedBy": [],
+        "usedBy": [],
+        "createdAt": {
+            "$date": "2026-10-15T06:12:18.691Z"
+        },
+        "updatedAt": {
+            "$date": "2026-10-30T06:44:34.951Z"
+        },
+        "__v": 0
+    }
+]

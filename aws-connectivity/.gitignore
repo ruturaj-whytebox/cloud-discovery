@@ -3,3 +3,4 @@ node_modules/
 *.log
 *accessKeys*.csv
 raw/
+aws-connectivity/node_modules/
